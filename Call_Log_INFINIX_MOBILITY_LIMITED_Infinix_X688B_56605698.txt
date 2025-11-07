@@ -1,0 +1,7142 @@
+Call log : 
+
+number : 01717826559
+duration : 0
+Type : Outgoing
+
+number : 01738071658
+duration : 0
+Type : Outgoing
+
+number : 01738071658
+duration : 39
+Type : Outgoing
+
+number : +8801568168108
+duration : 27
+Type : Incoming
+
+number : +8801568168108
+duration : 0
+Type : Missed
+
+number : +8801568168108
+duration : 0
+Type : Missed
+
+number : +8801568168108
+duration : 0
+Type : Missed
+
+number : +8801568168108
+duration : 0
+Type : Missed
+
+number : 01738071658
+duration : 0
+Type : Outgoing
+
+number : +8801568168108
+duration : 0
+Type : Outgoing
+
+number : 01717182419
+duration : 23
+Type : Outgoing
+
+number : +8801703533105
+duration : 323
+Type : Outgoing
+
+number : +8801957645062
+duration : 0
+Type : Outgoing
+
+number : 01764515612
+duration : 40
+Type : Outgoing
+
+number : 01726652273
+duration : 16
+Type : Outgoing
+
+number : +8801726652273
+duration : 37
+Type : Incoming
+
+number : 01756493284
+duration : 0
+Type : Outgoing
+
+number : 01756493284
+duration : 36
+Type : Outgoing
+
+number : 01756493284
+duration : 100
+Type : Outgoing
+
+number : +8801726652273
+duration : 21
+Type : Incoming
+
+number : 01761053352
+duration : 0
+Type : Outgoing
+
+number : 01761053352
+duration : 0
+Type : Outgoing
+
+number : 01761053352
+duration : 156
+Type : Outgoing
+
+number : +8801739405902
+duration : 99
+Type : Incoming
+
+number : +8801568168108
+duration : 0
+Type : Outgoing
+
+number : +8801774154178
+duration : 0
+Type : Outgoing
+
+number : +8801774154178
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 41
+Type : Outgoing
+
+number : 01793159666
+duration : 33
+Type : Outgoing
+
+number : +8801812725557
+duration : 58
+Type : Outgoing
+
+number : +8801568168108
+duration : 0
+Type : Outgoing
+
+number : +8801568168108
+duration : 66
+Type : Incoming
+
+number : +8801710263989
+duration : 17
+Type : Outgoing
+
+number : +8801739405902
+duration : 28
+Type : Incoming
+
+number : +8801568168108
+duration : 87
+Type : Outgoing
+
+number : 01737827320
+duration : 15
+Type : Outgoing
+
+number : 01793159666
+duration : 10
+Type : Outgoing
+
+number : +8801568168108
+duration : 0
+Type : Missed
+
+number : +8801568168108
+duration : 0
+Type : Missed
+
+number : +8801568168108
+duration : 0
+Type : Outgoing
+
+number : +8801568168108
+duration : 13
+Type : Incoming
+
+number : 01793159666
+duration : 9
+Type : Outgoing
+
+number : 01737827320
+duration : 0
+Type : Outgoing
+
+number : +8801626713766
+duration : 0
+Type : Missed
+
+number : +8801626713766
+duration : 0
+Type : Outgoing
+
+number : +8801626713766
+duration : 3
+Type : Incoming
+
+number : +8801626713766
+duration : 1
+Type : Outgoing
+
+number : +8801626713766
+duration : 25
+Type : Incoming
+
+number : +8801568168108
+duration : 54
+Type : Incoming
+
+number : +8801568168108
+duration : 4
+Type : Incoming
+
+number : +8801739405902
+duration : 0
+Type : Missed
+
+number : +8801739405902
+duration : 120
+Type : Outgoing
+
+number : +8801568168108
+duration : 110
+Type : Incoming
+
+number : +8801726652273
+duration : 30
+Type : Incoming
+
+number : +8801568168108
+duration : 37
+Type : Incoming
+
+number : +8801568168108
+duration : 10
+Type : Incoming
+
+number : +8801568168108
+duration : 20
+Type : Incoming
+
+number : +8801568168108
+duration : 0
+Type : Outgoing
+
+number : +8801568168108
+duration : 38
+Type : Incoming
+
+number : +8801568168108
+duration : 24
+Type : Outgoing
+
+number : +8801812725557
+duration : 12
+Type : Outgoing
+
+number : +8801568168108
+duration : 0
+Type : Missed
+
+number : +8801568168108
+duration : 0
+Type : Outgoing
+
+number : +8801568168108
+duration : 11
+Type : Incoming
+
+number : +8801568168108
+duration : 28
+Type : Incoming
+
+number : +8801568168108
+duration : 20
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801856196112
+duration : 0
+Type : Outgoing
+
+number : +8801856196112
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 9
+Type : Outgoing
+
+number : +8801812725557
+duration : 10
+Type : Outgoing
+
+number : +218924580475
+duration : 0
+Type : Missed
+
+number : +8801812725557
+duration : 15
+Type : Outgoing
+
+number : 01717826559
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801720142255
+duration : 0
+Type : Outgoing
+
+number : 01752398921
+duration : 0
+Type : Outgoing
+
+number : 01718252417
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 5
+Type : Incoming
+
+number : 01718252417
+duration : 0
+Type : Outgoing
+
+number : +8801720142255
+duration : 12
+Type : Incoming
+
+number : +8801720142255
+duration : 13
+Type : Incoming
+
+number : +8801720142255
+duration : 1
+Type : Outgoing
+
+number : +8801703533105
+duration : 3
+Type : Outgoing
+
+number : 01737827320
+duration : 0
+Type : Outgoing
+
+number : 01793159666
+duration : 0
+Type : Outgoing
+
+number : +8801737827320
+duration : 15
+Type : Incoming
+
+number : +8801752398921
+duration : 11
+Type : Outgoing
+
+number : 01793159666
+duration : 0
+Type : Outgoing
+
+number : 01737827320
+duration : 23
+Type : Outgoing
+
+number : 01745139451
+duration : 17
+Type : Outgoing
+
+number : 01745139451
+duration : 4
+Type : Outgoing
+
+number : 01740373704
+duration : 0
+Type : Outgoing
+
+number : 01889914235
+duration : 0
+Type : Outgoing
+
+number : 01889914235
+duration : 0
+Type : Outgoing
+
+number : +8801720142255
+duration : 0
+Type : Outgoing
+
+number : +8801720142255
+duration : 38
+Type : Outgoing
+
+number : 01889914235
+duration : 12
+Type : Outgoing
+
+number : +8801764515612
+duration : 102
+Type : Incoming
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : 01774017703
+duration : 32
+Type : Outgoing
+
+number : 01747359445
+duration : 0
+Type : Outgoing
+
+number : 01766180307
+duration : 26
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : 01858301361
+duration : 0
+Type : Outgoing
+
+number : 01774017703
+duration : 0
+Type : Outgoing
+
+number : 01858301361
+duration : 0
+Type : Outgoing
+
+number : 01774017703
+duration : 0
+Type : Outgoing
+
+number : +8801726652273
+duration : 0
+Type : Missed
+
+number : +8801726652273
+duration : 0
+Type : Missed
+
+number : +8801726652273
+duration : 0
+Type : Missed
+
+number : +8801726652273
+duration : 0
+Type : Missed
+
+number : +8801726652273
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 51
+Type : Incoming
+
+number : +8801764515612
+duration : 10
+Type : Incoming
+
+number : +8801764515612
+duration : 5
+Type : Incoming
+
+number : +8801764515612
+duration : 5
+Type : Incoming
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 15
+Type : Incoming
+
+number : +8801764515612
+duration : 23
+Type : Incoming
+
+number : +8801764515612
+duration : 23
+Type : Incoming
+
+number : +8801638704091
+duration : 12
+Type : Outgoing
+
+number : +8801638704091
+duration : 8
+Type : Incoming
+
+number : +8801638704091
+duration : 28
+Type : Outgoing
+
+number : 01727906201
+duration : 0
+Type : Outgoing
+
+number : 01764542008
+duration : 0
+Type : Outgoing
+
+number : +8801820912843
+duration : 20
+Type : Outgoing
+
+number : 01727906201
+duration : 31
+Type : Outgoing
+
+number : 01727906201
+duration : 17
+Type : Outgoing
+
+number : 01764542008
+duration : 23
+Type : Outgoing
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 15
+Type : Incoming
+
+number : 01320808630
+duration : 0
+Type : Outgoing
+
+number : +8801764515612
+duration : 7
+Type : Incoming
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 0
+Type : Outgoing
+
+number : +8801764515612
+duration : 0
+Type : Outgoing
+
+number : +8801764515612
+duration : 0
+Type : Outgoing
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 29
+Type : Incoming
+
+number : +8801764515612
+duration : 10
+Type : Incoming
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801720142255
+duration : 24
+Type : Outgoing
+
+number : +8801764515612
+duration : 25
+Type : Incoming
+
+number : +8801764515612
+duration : 23
+Type : Incoming
+
+number : +8801764515612
+duration : 0
+Type : Outgoing
+
+number : 01756493284
+duration : 0
+Type : Outgoing
+
+number : +8801720142255
+duration : 13
+Type : Outgoing
+
+number : +8801720142255
+duration : 6
+Type : Outgoing
+
+number : +8801764515612
+duration : 11
+Type : Incoming
+
+number : 01774017703
+duration : 13
+Type : Outgoing
+
+number : 01774017703
+duration : 21
+Type : Outgoing
+
+number : +8801774017703
+duration : 0
+Type : Missed
+
+number : +8801774017703
+duration : 0
+Type : Missed
+
+number : +8801774017703
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801774017703
+duration : 0
+Type : Missed
+
+number : +8801774017703
+duration : 0
+Type : Missed
+
+number : +8801774017703
+duration : 58
+Type : Outgoing
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801720142255
+duration : 5
+Type : Outgoing
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801720142255
+duration : 6
+Type : Outgoing
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 10
+Type : Incoming
+
+number : +8801703533105
+duration : 0
+Type : Outgoing
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 22
+Type : Incoming
+
+number : +8801774017703
+duration : 0
+Type : Missed
+
+number : +8801774017703
+duration : 22
+Type : Incoming
+
+number : +8801764515612
+duration : 0
+Type : Missed
+
+number : +8801764515612
+duration : 21
+Type : Incoming
+
+number : +8801764515612
+duration : 52
+Type : Outgoing
+
+number : +8801748972108
+duration : 32
+Type : Outgoing
+
+number : +8801720142255
+duration : 25
+Type : Outgoing
+
+number : 01717464956
+duration : 0
+Type : Outgoing
+
+number : +8801717464956
+duration : 10
+Type : Incoming
+
+number : +8801717464956
+duration : 0
+Type : Missed
+
+number : +8801752398921
+duration : 6
+Type : Outgoing
+
+number : +8801717464956
+duration : 28
+Type : Incoming
+
+number : +8801717464956
+duration : 0
+Type : Missed
+
+number : +8801720142255
+duration : 34
+Type : Outgoing
+
+number : +8801703533105
+duration : 0
+Type : Outgoing
+
+number : 01301522098
+duration : 0
+Type : Outgoing
+
+number : *212*880
+duration : 0
+Type : Outgoing
+
+number : +8801703533105
+duration : 85
+Type : Outgoing
+
+number : +8801308479241
+duration : 42
+Type : Outgoing
+
+number : 16279
+duration : 4
+Type : Incoming
+
+number : *8444*88#
+duration : 0
+Type : Outgoing
+
+number : +8801703533105
+duration : 0
+Type : Outgoing
+
+number : 01774017703
+duration : 46
+Type : Outgoing
+
+number : 01774017703
+duration : 46
+Type : Outgoing
+
+number : +8801752398921
+duration : 14
+Type : Outgoing
+
+number : +8801315741200
+duration : 65
+Type : Outgoing
+
+number : +8801315741200
+duration : 6
+Type : Incoming
+
+number : +8801315741200
+duration : 0
+Type : Missed
+
+number : +8801315741200
+duration : 17
+Type : Outgoing
+
+number : +8801718252417
+duration : 0
+Type : Outgoing
+
+number : +8801774017703
+duration : 200
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : 01300972698
+duration : 0
+Type : Outgoing
+
+number : +8801323594119
+duration : 67
+Type : Outgoing
+
+number : +8801323594119
+duration : 0
+Type : Missed
+
+number : +8801323594119
+duration : 0
+Type : Missed
+
+number : 28777
+duration : 0
+Type : Missed
+
+number : +8801681197537
+duration : 0
+Type : Outgoing
+
+number : 01774017703
+duration : 0
+Type : Outgoing
+
+number : +8801308479241
+duration : 12
+Type : Outgoing
+
+number : +8801616444370
+duration : 0
+Type : Outgoing
+
+number : 01774017703
+duration : 29
+Type : Outgoing
+
+number : 16279
+duration : 15
+Type : Incoming
+
+number : +8801703533105
+duration : 50
+Type : Outgoing
+
+number : +8801720142255
+duration : 0
+Type : Outgoing
+
+number : +8801720142255
+duration : 11
+Type : Incoming
+
+number : +8801720142255
+duration : 0
+Type : Outgoing
+
+number : +8801640000332
+duration : 0
+Type : Outgoing
+
+number : +8801640000332
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 8
+Type : Outgoing
+
+number : +8801752398921
+duration : 17
+Type : Incoming
+
+number : +8801308479241
+duration : 48
+Type : Outgoing
+
+number : +8801308479241
+duration : 0
+Type : Missed
+
+number : +8801819683540
+duration : 281
+Type : Incoming
+
+number : +8801307904382
+duration : 0
+Type : Outgoing
+
+number : +8801568168108
+duration : 10
+Type : Incoming
+
+number : +8801568168108
+duration : 30
+Type : Incoming
+
+number : 01861039455
+duration : 4
+Type : Outgoing
+
+number : +8801317557287
+duration : 0
+Type : Outgoing
+
+number : +8801317557287
+duration : 16
+Type : Outgoing
+
+number : +8801603162453
+duration : 13
+Type : Outgoing
+
+number : +8801317557287
+duration : 0
+Type : Outgoing
+
+number : +8801317557287
+duration : 9
+Type : Outgoing
+
+number : +8801603162453
+duration : 0
+Type : Outgoing
+
+number : +8801603162453
+duration : 0
+Type : Outgoing
+
+number : +8801603162453
+duration : 0
+Type : Outgoing
+
+number : 01854591866
+duration : 24
+Type : Outgoing
+
+number : +8801603162453
+duration : 42
+Type : Incoming
+
+number : +8801603162453
+duration : 42
+Type : Incoming
+
+number : +8801603162453
+duration : 42
+Type : Incoming
+
+number : +8801603162453
+duration : 0
+Type : Outgoing
+
+number : +8801603162453
+duration : 0
+Type : Missed
+
+number : +8801603162453
+duration : 22
+Type : Incoming
+
+number : +8801603162453
+duration : 18
+Type : Outgoing
+
+number : +8801834650470
+duration : 52
+Type : Outgoing
+
+number : +8801854591866
+duration : 0
+Type : Outgoing
+
+number : +8801603162453
+duration : 0
+Type : Outgoing
+
+number : +8801854591866
+duration : 0
+Type : Outgoing
+
+number : +8801603162453
+duration : 0
+Type : Outgoing
+
+number : +8801603162453
+duration : 0
+Type : Outgoing
+
+number : +8801603162453
+duration : 0
+Type : Outgoing
+
+number : +8801317557287
+duration : 31
+Type : Outgoing
+
+number : 01854591866
+duration : 0
+Type : Outgoing
+
+number : 01854591866
+duration : 0
+Type : Outgoing
+
+number : +8801309759297
+duration : 33
+Type : Outgoing
+
+number : +8801603162453
+duration : 0
+Type : Missed
+
+number : +8801603162453
+duration : 0
+Type : Missed
+
+number : +8801308479241
+duration : 12
+Type : Outgoing
+
+number : +355028
+duration : 0
+Type : Missed
+
+number : +355028
+duration : 7
+Type : Incoming
+
+number : +8801308479241
+duration : 13
+Type : Incoming
+
+number : +8801308479241
+duration : 16
+Type : Incoming
+
+number : +8801308479241
+duration : 14
+Type : Incoming
+
+number : 01861039455
+duration : 19
+Type : Outgoing
+
+number : +8801308479241
+duration : 23
+Type : Outgoing
+
+number : +8801308479241
+duration : 0
+Type : Missed
+
+number : +8801568168108
+duration : 0
+Type : Outgoing
+
+number : +8801568168108
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 41
+Type : Outgoing
+
+number : +8801308479241
+duration : 0
+Type : Missed
+
+number : +8801308479241
+duration : 18
+Type : Outgoing
+
+number : +8801308479241
+duration : 31
+Type : Incoming
+
+number : +8801308479241
+duration : 20
+Type : Outgoing
+
+number : +8801308479241
+duration : 20
+Type : Outgoing
+
+number : +8801308479241
+duration : 25
+Type : Incoming
+
+number : 01720142255
+duration : 0
+Type : Outgoing
+
+number : +8801720142255
+duration : 37
+Type : Incoming
+
+number : +8801720142255
+duration : 16
+Type : Incoming
+
+number : +8801308479241
+duration : 8
+Type : Incoming
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : 01748972108
+duration : 0
+Type : Outgoing
+
+number : +8801307904382
+duration : 12
+Type : Outgoing
+
+number : +8801720142255
+duration : 18
+Type : Incoming
+
+number : +8801720142255
+duration : 0
+Type : Outgoing
+
+number : +8801720142255
+duration : 0
+Type : Outgoing
+
+number : +8801720142255
+duration : 73
+Type : Incoming
+
+number : +8801720142255
+duration : 15
+Type : Incoming
+
+number : +8801308479241
+duration : 8
+Type : Incoming
+
+number : +8801720142255
+duration : 24
+Type : Incoming
+
+number : +8801720142255
+duration : 17
+Type : Incoming
+
+number : +8801720142255
+duration : 6
+Type : Incoming
+
+number : +8801720142255
+duration : 23
+Type : Incoming
+
+number : +8801719726543
+duration : 31
+Type : Incoming
+
+number : +8801720142255
+duration : 39
+Type : Incoming
+
+number : +8801752398921
+duration : 176
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801774017703
+duration : 40
+Type : Outgoing
+
+number : +8801774017703
+duration : 32
+Type : Outgoing
+
+number : +8801774017703
+duration : 41
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801706852794
+duration : 0
+Type : Outgoing
+
+number : 01720142255
+duration : 13
+Type : Outgoing
+
+number : 01720142255
+duration : 13
+Type : Outgoing
+
+number : +8801720142255
+duration : 27
+Type : Incoming
+
+number : +8801720142255
+duration : 41
+Type : Incoming
+
+number : +8801703533105
+duration : 85
+Type : Outgoing
+
+number : +8801703533105
+duration : 85
+Type : Outgoing
+
+number : 01717826559
+duration : 0
+Type : Outgoing
+
+number : 01717182419
+duration : 1
+Type : Outgoing
+
+number : 01717182419
+duration : 51
+Type : Outgoing
+
+number : 01721595914
+duration : 0
+Type : Outgoing
+
+number : 01721595914
+duration : 0
+Type : Outgoing
+
+number : 01717182419
+duration : 0
+Type : Outgoing
+
+number : 01717182419
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 123
+Type : Incoming
+
+number : 01717826559
+duration : 13
+Type : Outgoing
+
+number : +8801717182419
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 24
+Type : Outgoing
+
+number : +8801717182419
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 21
+Type : Incoming
+
+number : +8801717182419
+duration : 58
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801720142255
+duration : 44
+Type : Incoming
+
+number : +8801720142255
+duration : 27
+Type : Incoming
+
+number : +8801720142255
+duration : 0
+Type : Missed
+
+number : +8801720142255
+duration : 0
+Type : Missed
+
+number : +8801720142255
+duration : 0
+Type : Missed
+
+number : +8801720142255
+duration : 0
+Type : Missed
+
+number : +8801720142255
+duration : 0
+Type : Missed
+
+number : +8801720142255
+duration : 9
+Type : Outgoing
+
+number : +8801720142255
+duration : 0
+Type : Outgoing
+
+number : +8801720142255
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801720142255
+duration : 28
+Type : Outgoing
+
+number : +8801720142255
+duration : 7
+Type : Incoming
+
+number : +8801720142255
+duration : 7
+Type : Incoming
+
+number : +8801317557287
+duration : 48
+Type : Outgoing
+
+number : +8801720142255
+duration : 0
+Type : Missed
+
+number : +8801720142255
+duration : 0
+Type : Outgoing
+
+number : +8801326428120
+duration : 295
+Type : Outgoing
+
+number : +8801326428120
+duration : 86
+Type : Incoming
+
+number : +8801308479241
+duration : 18
+Type : Outgoing
+
+number : +8801308479241
+duration : 9
+Type : Outgoing
+
+number : +8801715455281
+duration : 0
+Type : Outgoing
+
+number : +8801715455281
+duration : 0
+Type : Outgoing
+
+number : +8801326428120
+duration : 11
+Type : Incoming
+
+number : +8801715455281
+duration : 43
+Type : Outgoing
+
+number : +8801715455281
+duration : 19
+Type : Outgoing
+
+number : +8801726609770
+duration : 10
+Type : Incoming
+
+number : +8801726609770
+duration : 10
+Type : Incoming
+
+number : +8801715455281
+duration : 7
+Type : Outgoing
+
+number : 01720142255
+duration : 0
+Type : Outgoing
+
+number : +8801720142255
+duration : 15
+Type : Incoming
+
+number : +8801720142255
+duration : 27
+Type : Incoming
+
+number : +8801720142255
+duration : 0
+Type : Missed
+
+number : +8801773178084
+duration : 19
+Type : Outgoing
+
+number : +8801773178084
+duration : 19
+Type : Outgoing
+
+number : +8801773178084
+duration : 0
+Type : Missed
+
+number : +8801315741200
+duration : 31
+Type : Outgoing
+
+number : +8801315741200
+duration : 14
+Type : Incoming
+
+number : +8801315741200
+duration : 0
+Type : Outgoing
+
+number : +8801315741200
+duration : 0
+Type : Outgoing
+
+number : +8801315741200
+duration : 0
+Type : Outgoing
+
+number : 01717182419
+duration : 0
+Type : Outgoing
+
+number : 01717182419
+duration : 0
+Type : Outgoing
+
+number : +8801315741200
+duration : 0
+Type : Outgoing
+
+number : +8801315741200
+duration : 0
+Type : Outgoing
+
+number : +8801315741200
+duration : 0
+Type : Outgoing
+
+number : 01717182419
+duration : 0
+Type : Outgoing
+
+number : 01717182419
+duration : 0
+Type : Outgoing
+
+number : 01717182419
+duration : 0
+Type : Outgoing
+
+number : 01717182419
+duration : 0
+Type : Outgoing
+
+number : 01717182419
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 59
+Type : Outgoing
+
+number : +8801315741200
+duration : 20
+Type : Incoming
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 48
+Type : Outgoing
+
+number : +8801710263989
+duration : 39
+Type : Outgoing
+
+number : +8801752398921
+duration : 26
+Type : Outgoing
+
+number : +8801315741200
+duration : 0
+Type : Outgoing
+
+number : +8801315741200
+duration : 0
+Type : Outgoing
+
+number : +8801710263989
+duration : 15
+Type : Outgoing
+
+number : +8801308479241
+duration : 12
+Type : Outgoing
+
+number : +8801568168108
+duration : 0
+Type : Outgoing
+
+number : 01827528877
+duration : 1
+Type : Outgoing
+
+number : 01827528877
+duration : 0
+Type : Outgoing
+
+number : 01827528877
+duration : 0
+Type : Outgoing
+
+number : 01827528877
+duration : 26
+Type : Outgoing
+
+number : +8801965033756
+duration : 9
+Type : Incoming
+
+number : +8801965033756
+duration : 24
+Type : Outgoing
+
+number : +8801308479241
+duration : 17
+Type : Outgoing
+
+number : +8801965033756
+duration : 10
+Type : Outgoing
+
+number : 01827528877
+duration : 4
+Type : Outgoing
+
+number : 01827528877
+duration : 0
+Type : Outgoing
+
+number : +8801774154178
+duration : 22
+Type : Outgoing
+
+number : 01827528877
+duration : 0
+Type : Outgoing
+
+number : +8801992427813
+duration : 17
+Type : Incoming
+
+number : +8801992427813
+duration : 21
+Type : Outgoing
+
+number : +8801992427813
+duration : 0
+Type : Outgoing
+
+number : +8801703533105
+duration : 20
+Type : Outgoing
+
+number : +8801992427813
+duration : 0
+Type : Outgoing
+
+number : 01827528877
+duration : 0
+Type : Outgoing
+
+number : +8801703533105
+duration : 18
+Type : Outgoing
+
+number : +8801992427813
+duration : 14
+Type : Outgoing
+
+number : +8801703533105
+duration : 4
+Type : Outgoing
+
+number : +8801308479241
+duration : 0
+Type : Outgoing
+
+number : +8801992427813
+duration : 30
+Type : Outgoing
+
+number : +8801992427813
+duration : 23
+Type : Incoming
+
+number : 01861039455
+duration : 3
+Type : Outgoing
+
+number : +8801752398921
+duration : 13
+Type : Outgoing
+
+number : +8801752398921
+duration : 24
+Type : Outgoing
+
+number : +8801752398921
+duration : 33
+Type : Outgoing
+
+number : 01861039455
+duration : 0
+Type : Outgoing
+
+number : 01861039455
+duration : 3
+Type : Outgoing
+
+number : 01861039455
+duration : 41
+Type : Outgoing
+
+number : *8444*88#
+duration : 0
+Type : Outgoing
+
+number : 01720142255
+duration : 0
+Type : Outgoing
+
+number : 01720142255
+duration : 15
+Type : Outgoing
+
+number : +8801992427813
+duration : 0
+Type : Outgoing
+
+number : +8801992427813
+duration : 0
+Type : Outgoing
+
+number : +8801992427813
+duration : 0
+Type : Outgoing
+
+number : +8801992427813
+duration : 0
+Type : Outgoing
+
+number : +8801992427813
+duration : 0
+Type : Outgoing
+
+number : 01827528877
+duration : 0
+Type : Outgoing
+
+number : +8801992427813
+duration : 0
+Type : Outgoing
+
+number : +8801992427813
+duration : 38
+Type : Outgoing
+
+number : 01747359445
+duration : 27
+Type : Outgoing
+
+number : +8801307904382
+duration : 0
+Type : Outgoing
+
+number : *8444*88#
+duration : 0
+Type : Outgoing
+
+number : 01752007611
+duration : 0
+Type : Outgoing
+
+number : 01752007611
+duration : 262
+Type : Outgoing
+
+number : *8444*88#
+duration : 0
+Type : Outgoing
+
+number : *8444*88#
+duration : 0
+Type : Outgoing
+
+number : *8444*88#
+duration : 0
+Type : Outgoing
+
+number : *8444*88#
+duration : 0
+Type : Outgoing
+
+number : 22288
+duration : 0
+Type : Missed
+
+number : +8801308479241
+duration : 5
+Type : Outgoing
+
+number : 21213
+duration : 2
+Type : Incoming
+
+number : 28477
+duration : 7
+Type : Incoming
+
+number : +8801774017703
+duration : 227
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : 21213
+duration : 0
+Type : Missed
+
+number : +8801992427813
+duration : 0
+Type : Outgoing
+
+number : 01638704091
+duration : 0
+Type : Outgoing
+
+number : 01638704091
+duration : 28
+Type : Outgoing
+
+number : 01638704091
+duration : 28
+Type : Outgoing
+
+number : +8801638704091
+duration : 12
+Type : Incoming
+
+number : 16279
+duration : 0
+Type : Missed
+
+number : +8801703533105
+duration : 20
+Type : Outgoing
+
+number : +8801638704091
+duration : 7
+Type : Outgoing
+
+number : +8801638704091
+duration : 13
+Type : Outgoing
+
+number : 01774017703
+duration : 0
+Type : Outgoing
+
+number : 01774017703
+duration : 0
+Type : Outgoing
+
+number : 01774017703
+duration : 26
+Type : Outgoing
+
+number : 01774017703
+duration : 0
+Type : Outgoing
+
+number : 01774017703
+duration : 140
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801307904382
+duration : 84
+Type : Outgoing
+
+number : 01720142255
+duration : 7
+Type : Outgoing
+
+number : +8801774017703
+duration : 0
+Type : Outgoing
+
+number : 01774017703
+duration : 0
+Type : Outgoing
+
+number : +8801626713766
+duration : 0
+Type : Outgoing
+
+number : 01793159666
+duration : 9
+Type : Outgoing
+
+number : 01774017703
+duration : 0
+Type : Outgoing
+
+number : +8801774017703
+duration : 430
+Type : Outgoing
+
+number : +8801774017703
+duration : 0
+Type : Outgoing
+
+number : +8801864552259
+duration : 344
+Type : Incoming
+
+number : 22288
+duration : 1
+Type : Incoming
+
+number : 01889914235
+duration : 0
+Type : Outgoing
+
+number : 01717826559
+duration : 41
+Type : Outgoing
+
+number : +8801626713766
+duration : 0
+Type : Outgoing
+
+number : +8801626713766
+duration : 0
+Type : Outgoing
+
+number : +8801717464956
+duration : 74
+Type : Incoming
+
+number : 01318505103
+duration : 12
+Type : Outgoing
+
+number : 01318505103
+duration : 9
+Type : Outgoing
+
+number : 01318505103
+duration : 5
+Type : Outgoing
+
+number : +8801992427813
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 17
+Type : Incoming
+
+number : +8801812725557
+duration : 7
+Type : Incoming
+
+number : +8801812725557
+duration : 5
+Type : Incoming
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 13
+Type : Incoming
+
+number : +8801812725557
+duration : 14
+Type : Incoming
+
+number : +8801812725557
+duration : 0
+Type : Missed
+
+number : +8801812725557
+duration : 25
+Type : Incoming
+
+number : +8801992427813
+duration : 21
+Type : Incoming
+
+number : +8801992427813
+duration : 15
+Type : Incoming
+
+number : +8801992427813
+duration : 15
+Type : Incoming
+
+number : +8801992427813
+duration : 10
+Type : Incoming
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : 21213
+duration : 0
+Type : Missed
+
+number : 01748972108
+duration : 0
+Type : Outgoing
+
+number : +8801992427813
+duration : 42
+Type : Incoming
+
+number : +8801752398921
+duration : 0
+Type : Missed
+
+number : 01752398921
+duration : 0
+Type : Outgoing
+
+number : +8801992427813
+duration : 0
+Type : Outgoing
+
+number : +8801992427813
+duration : 0
+Type : Outgoing
+
+number : +8801992427813
+duration : 0
+Type : Outgoing
+
+number : 01724381577
+duration : 0
+Type : Outgoing
+
+number : 01724381577
+duration : 40
+Type : Outgoing
+
+number : +8801315741200
+duration : 21
+Type : Outgoing
+
+number : +8801638704091
+duration : 8
+Type : Incoming
+
+number : +8801315691640
+duration : 0
+Type : Missed
+
+number : +8801315691640
+duration : 0
+Type : Missed
+
+number : +8801315691640
+duration : 73
+Type : Incoming
+
+number : +8801992427813
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 9
+Type : Outgoing
+
+number : +8801752398921
+duration : 29
+Type : Outgoing
+
+number : +8801307904382
+duration : 27
+Type : Incoming
+
+number : +8801307904382
+duration : 0
+Type : Missed
+
+number : +8801992427813
+duration : 95
+Type : Incoming
+
+number : +8801992427813
+duration : 381
+Type : Incoming
+
+number : +8801992427813
+duration : 10
+Type : Incoming
+
+number : 01310892966
+duration : 0
+Type : Outgoing
+
+number : 01718301923
+duration : 0
+Type : Outgoing
+
+number : 01718301923
+duration : 0
+Type : Outgoing
+
+number : +8801718301923
+duration : 38
+Type : Incoming
+
+number : +8801752398921
+duration : 0
+Type : Missed
+
+number : 01310892966
+duration : 0
+Type : Outgoing
+
+number : +8801310892966
+duration : 0
+Type : Missed
+
+number : 16560
+duration : 11
+Type : Incoming
+
+number : +8801310892966
+duration : 32
+Type : Incoming
+
+number : +8801721774858
+duration : 60
+Type : Incoming
+
+number : +8801721774858
+duration : 24
+Type : Incoming
+
+number : +8801721774858
+duration : 20
+Type : Incoming
+
+number : +8801310892966
+duration : 0
+Type : Outgoing
+
+number : +8801310892966
+duration : 0
+Type : Outgoing
+
+number : +8801310892966
+duration : 0
+Type : Outgoing
+
+number : +8801310892966
+duration : 0
+Type : Outgoing
+
+number : +8801310892966
+duration : 0
+Type : Outgoing
+
+number : +8801703533105
+duration : 48
+Type : Outgoing
+
+number : +8801774017703
+duration : 0
+Type : Outgoing
+
+number : +8801875109588
+duration : 0
+Type : Outgoing
+
+number : +8801741949864
+duration : 0
+Type : Missed
+
+number : +8801741949864
+duration : 0
+Type : Missed
+
+number : +8801741949864
+duration : 21
+Type : Incoming
+
+number : +8801326428120
+duration : 15
+Type : Incoming
+
+number : +8801326428120
+duration : 15
+Type : Incoming
+
+number : 01751494376
+duration : 44
+Type : Outgoing
+
+number : 01711145798
+duration : 50
+Type : Outgoing
+
+number : +8801752398921
+duration : 7
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 4
+Type : Incoming
+
+number : +8801703533105
+duration : 0
+Type : Outgoing
+
+number : +8801703533105
+duration : 41
+Type : Incoming
+
+number : 16279
+duration : 2
+Type : Incoming
+
+number : +8801858301361
+duration : 0
+Type : Outgoing
+
+number : 21213
+duration : 2
+Type : Incoming
+
+number : 21213
+duration : 2
+Type : Incoming
+
+number : 01742909939
+duration : 0
+Type : Outgoing
+
+number : 01742909939
+duration : 21
+Type : Outgoing
+
+number : 01742909939
+duration : 21
+Type : Outgoing
+
+number : +8801720142255
+duration : 0
+Type : Outgoing
+
+number : +8801720142255
+duration : 44
+Type : Incoming
+
+number : +8801720142255
+duration : 0
+Type : Outgoing
+
+number : +8801720142255
+duration : 0
+Type : Outgoing
+
+number : +8801720142255
+duration : 10
+Type : Incoming
+
+number : +8802494903
+duration : 0
+Type : Missed
+
+number : 22020
+duration : 8
+Type : Incoming
+
+number : +8801752398921
+duration : 10
+Type : Outgoing
+
+number : +8801752398921
+duration : 11
+Type : Incoming
+
+number : +8801858301361
+duration : 20
+Type : Outgoing
+
+number : +8801858301361
+duration : 49
+Type : Incoming
+
+number : +8801315741200
+duration : 0
+Type : Outgoing
+
+number : 01752915764
+duration : 0
+Type : Outgoing
+
+number : 16560
+duration : 0
+Type : Missed
+
+number : +8801703533105
+duration : 8
+Type : Outgoing
+
+number : +8801703533105
+duration : 40
+Type : Outgoing
+
+number : +8801720142255
+duration : 0
+Type : Outgoing
+
+number : *212*866
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 15
+Type : Outgoing
+
+number : 16279
+duration : 10
+Type : Incoming
+
+number : +8801703533105
+duration : 0
+Type : Outgoing
+
+number : +8801703533105
+duration : 11
+Type : Outgoing
+
+number : 28477
+duration : 0
+Type : Missed
+
+number : +8801875109588
+duration : 0
+Type : Outgoing
+
+number : +8801703533105
+duration : 8
+Type : Outgoing
+
+number : +8801703533105
+duration : 13
+Type : Outgoing
+
+number : +8801703533105
+duration : 54
+Type : Outgoing
+
+number : +8801703533105
+duration : 0
+Type : Outgoing
+
+number : +8801703533105
+duration : 28
+Type : Incoming
+
+number : +8801703533105
+duration : 24
+Type : Outgoing
+
+number : +8801703533105
+duration : 13
+Type : Incoming
+
+number : +8801703533105
+duration : 0
+Type : Outgoing
+
+number : +8801703533105
+duration : 123
+Type : Incoming
+
+number : +8801703533105
+duration : 175
+Type : Incoming
+
+number : +8801703533105
+duration : 0
+Type : Outgoing
+
+number : +8801703533105
+duration : 86
+Type : Incoming
+
+number : +8801703533105
+duration : 32
+Type : Incoming
+
+number : +8801703533105
+duration : 0
+Type : Outgoing
+
+number : +8801703533105
+duration : 15
+Type : Incoming
+
+number : +8801703533105
+duration : 26
+Type : Incoming
+
+number : +8801703533105
+duration : 43
+Type : Incoming
+
+number : +8801703533105
+duration : 0
+Type : Outgoing
+
+number : +8801703533105
+duration : 62
+Type : Incoming
+
+number : +8801703533105
+duration : 7
+Type : Incoming
+
+number : +8801703533105
+duration : 0
+Type : Missed
+
+number : +8801703533105
+duration : 0
+Type : Outgoing
+
+number : +8801703533105
+duration : 277
+Type : Incoming
+
+number : +8801703533105
+duration : 8
+Type : Incoming
+
+number : 01310892966
+duration : 0
+Type : Outgoing
+
+number : +8801703533105
+duration : 13
+Type : Outgoing
+
+number : 01748972108
+duration : 0
+Type : Outgoing
+
+number : 01748972108
+duration : 0
+Type : Outgoing
+
+number : +8801703533105
+duration : 44
+Type : Incoming
+
+number : +8801703533105
+duration : 20
+Type : Incoming
+
+number : +8801703533105
+duration : 22
+Type : Incoming
+
+number : +8801703533105
+duration : 6
+Type : Incoming
+
+number : +8801706852794
+duration : 0
+Type : Outgoing
+
+number : 28477
+duration : 5
+Type : Incoming
+
+number : +8801703533105
+duration : 12
+Type : Outgoing
+
+number : +8801703533105
+duration : 0
+Type : Outgoing
+
+number : +8801703533105
+duration : 0
+Type : Outgoing
+
+number : +8801703533105
+duration : 0
+Type : Outgoing
+
+number : +8801703533105
+duration : 0
+Type : Outgoing
+
+number : +8801703533105
+duration : 83
+Type : Incoming
+
+number : +8801703533105
+duration : 83
+Type : Incoming
+
+number : +8801703533105
+duration : 9
+Type : Outgoing
+
+number : +8801703533105
+duration : 16
+Type : Incoming
+
+number : +8801703533105
+duration : 16
+Type : Incoming
+
+number : 28466
+duration : 0
+Type : Missed
+
+number : +8801703533105
+duration : 37
+Type : Outgoing
+
+number : +8801703533105
+duration : 109
+Type : Incoming
+
+number : +8801703533105
+duration : 0
+Type : Missed
+
+number : +8801703533105
+duration : 0
+Type : Missed
+
+number : +8801703533105
+duration : 0
+Type : Outgoing
+
+number : 28777
+duration : 2
+Type : Incoming
+
+number : 28466
+duration : 0
+Type : Incoming
+
+number : +8801703533105
+duration : 0
+Type : Missed
+
+number : +8801707278985
+duration : 0
+Type : Outgoing
+
+number : 28466
+duration : 0
+Type : Incoming
+
+number : +8801703533105
+duration : 0
+Type : Missed
+
+number : 28466
+duration : 14
+Type : Incoming
+
+number : +8801703533105
+duration : 0
+Type : Missed
+
+number : +8801703533105
+duration : 0
+Type : Missed
+
+number : 22288
+duration : 0
+Type : Missed
+
+number : +8801703533105
+duration : 10
+Type : Incoming
+
+number : +8801703533105
+duration : 9
+Type : Incoming
+
+number : 28466
+duration : 2
+Type : Incoming
+
+number : 28466
+duration : 0
+Type : Missed
+
+number : +8801703533105
+duration : 34
+Type : Incoming
+
+number : 28466
+duration : 38
+Type : Incoming
+
+number : 284775
+duration : 0
+Type : Missed
+
+number : 28466
+duration : 0
+Type : Missed
+
+number : 22288
+duration : 0
+Type : Missed
+
+number : 01718252417
+duration : 0
+Type : Outgoing
+
+number : +8801785717056
+duration : 31
+Type : Incoming
+
+number : +8801703533105
+duration : 0
+Type : Outgoing
+
+number : 01766180307
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Missed
+
+number : +8801304079890
+duration : 0
+Type : Outgoing
+
+number : +8801304079890
+duration : 0
+Type : Outgoing
+
+number : +8801976509877
+duration : 0
+Type : Outgoing
+
+number : +8801976509877
+duration : 0
+Type : Outgoing
+
+number : +8801976509877
+duration : 11
+Type : Incoming
+
+number : +8801703533105
+duration : 0
+Type : Outgoing
+
+number : 01766180307
+duration : 5
+Type : Outgoing
+
+number : 01766180307
+duration : 14
+Type : Outgoing
+
+number : 01791900385
+duration : 19
+Type : Outgoing
+
+number : +8801752398921
+duration : 20
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Missed
+
+number : +8801744345403
+duration : 60
+Type : Incoming
+
+number : +8801744345403
+duration : 60
+Type : Incoming
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801976509877
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 20
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 83
+Type : Outgoing
+
+number : +8801766180307
+duration : 109
+Type : Outgoing
+
+number : +8801766180307
+duration : 7
+Type : Outgoing
+
+number : +8801766180307
+duration : 4
+Type : Outgoing
+
+number : +8801766180307
+duration : 25
+Type : Outgoing
+
+number : +8801739405902
+duration : 40
+Type : Outgoing
+
+number : +8801766180307
+duration : 5
+Type : Outgoing
+
+number : +8801766180307
+duration : 5
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 9
+Type : Outgoing
+
+number : +8801812725557
+duration : 19
+Type : Outgoing
+
+number : +8801766180307
+duration : 12
+Type : Outgoing
+
+number : +8801766180307
+duration : 28
+Type : Outgoing
+
+number : +8801976509877
+duration : 9
+Type : Outgoing
+
+number : +8801766180307
+duration : 15
+Type : Outgoing
+
+number : +8801976509877
+duration : 0
+Type : Outgoing
+
+number : +8801976509877
+duration : 19
+Type : Outgoing
+
+number : +8801766180307
+duration : 12
+Type : Outgoing
+
+number : +8801766180307
+duration : 12
+Type : Outgoing
+
+number : 01308479241
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 13
+Type : Outgoing
+
+number : +8801766180307
+duration : 112
+Type : Outgoing
+
+number : +8801766180307
+duration : 36
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 17
+Type : Outgoing
+
+number : 01308479241
+duration : 0
+Type : Outgoing
+
+number : 01308479241
+duration : 10
+Type : Outgoing
+
+number : 01308479241
+duration : 12
+Type : Outgoing
+
+number : +8801976509877
+duration : 15
+Type : Incoming
+
+number : +8801766180307
+duration : 6
+Type : Outgoing
+
+number : +8801718536888
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 80
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 18
+Type : Outgoing
+
+number : +8801766180307
+duration : 6
+Type : Outgoing
+
+number : +8801308479241
+duration : 13
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 49
+Type : Outgoing
+
+number : +8801766180307
+duration : 36
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 16
+Type : Outgoing
+
+number : +8801875109588
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 13
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 20
+Type : Outgoing
+
+number : +8801766180307
+duration : 17
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 47
+Type : Outgoing
+
+number : +8801766180307
+duration : 30
+Type : Outgoing
+
+number : +8801766180307
+duration : 7
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 14
+Type : Outgoing
+
+number : +8801766180307
+duration : 14
+Type : Outgoing
+
+number : +8801766180307
+duration : 8
+Type : Outgoing
+
+number : +8801766180307
+duration : 37
+Type : Outgoing
+
+number : +8801766180307
+duration : 19
+Type : Outgoing
+
+number : +8801308479241
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 21
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 31
+Type : Outgoing
+
+number : +8801643513834
+duration : 25
+Type : Incoming
+
+number : +8801643513834
+duration : 25
+Type : Incoming
+
+number : +8801752398921
+duration : 9
+Type : Outgoing
+
+number : 01721774858
+duration : 0
+Type : Outgoing
+
+number : 01721774858
+duration : 0
+Type : Outgoing
+
+number : +8801721774858
+duration : 8
+Type : Incoming
+
+number : +8801721774858
+duration : 17
+Type : Outgoing
+
+number : +8801320322447
+duration : 0
+Type : Missed
+
+number : +8801320322447
+duration : 18
+Type : Outgoing
+
+number : +8801766180307
+duration : 34
+Type : Outgoing
+
+number : 01822730504
+duration : 0
+Type : Outgoing
+
+number : +8801721774858
+duration : 5
+Type : Incoming
+
+number : +8801721774858
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 63
+Type : Outgoing
+
+number : 01766180307
+duration : 30
+Type : Outgoing
+
+number : 01766180307
+duration : 0
+Type : Outgoing
+
+number : 01766180307
+duration : 22
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 85
+Type : Outgoing
+
+number : +8801766180307
+duration : 106
+Type : Outgoing
+
+number : +8801766180307
+duration : 59
+Type : Outgoing
+
+number : +8801766180307
+duration : 30
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 18
+Type : Outgoing
+
+number : +8801983918766
+duration : 16
+Type : Outgoing
+
+number : +8801983918766
+duration : 16
+Type : Outgoing
+
+number : 01742909939
+duration : 0
+Type : Outgoing
+
+number : +8801742909939
+duration : 39
+Type : Incoming
+
+number : +8801766180307
+duration : 10
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801742909939
+duration : 15
+Type : Outgoing
+
+number : +8801742909939
+duration : 15
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 11
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801710877187
+duration : 11
+Type : Outgoing
+
+number : +8801710877187
+duration : 11
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 17
+Type : Outgoing
+
+number : +8801766180307
+duration : 17
+Type : Outgoing
+
+number : +8801766180307
+duration : 18
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 45
+Type : Outgoing
+
+number : +8801976509877
+duration : 3
+Type : Outgoing
+
+number : +8801717182419
+duration : 0
+Type : Outgoing
+
+number : *29
+duration : 0
+Type : Outgoing
+
+number : +8801720142255
+duration : 15
+Type : Outgoing
+
+number : +8801720142255
+duration : 17
+Type : Incoming
+
+number : +8801766180307
+duration : 28
+Type : Outgoing
+
+number : +8801766180307
+duration : 12
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 59
+Type : Outgoing
+
+number : +8801766180307
+duration : 59
+Type : Outgoing
+
+number : +8801638704091
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 16
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 10
+Type : Outgoing
+
+number : +8801766180307
+duration : 10
+Type : Outgoing
+
+number : +8801720142255
+duration : 26
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 45
+Type : Incoming
+
+number : 01717826559
+duration : 0
+Type : Outgoing
+
+number : 01717826559
+duration : 0
+Type : Outgoing
+
+number : 01717826559
+duration : 0
+Type : Outgoing
+
+number : +8801323081092
+duration : 16
+Type : Outgoing
+
+number : +8801323081092
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 30
+Type : Outgoing
+
+number : +8801323081092
+duration : 0
+Type : Outgoing
+
+number : +8801976269637
+duration : 7
+Type : Incoming
+
+number : +8801323081092
+duration : 0
+Type : Outgoing
+
+number : 01725940041
+duration : 0
+Type : Outgoing
+
+number : 01725940041
+duration : 44
+Type : Outgoing
+
+number : +8801766180307
+duration : 8
+Type : Outgoing
+
+number : +8801766180307
+duration : 8
+Type : Outgoing
+
+number : 01748972108
+duration : 0
+Type : Outgoing
+
+number : 01752007611
+duration : 0
+Type : Outgoing
+
+number : +8801773459047
+duration : 0
+Type : Outgoing
+
+number : +8801773459047
+duration : 8
+Type : Outgoing
+
+number : +8801626713766
+duration : 60
+Type : Outgoing
+
+number : +8801323081092
+duration : 0
+Type : Outgoing
+
+number : +8801638704091
+duration : 0
+Type : Outgoing
+
+number : +8801638704091
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 10
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : 16560
+duration : 0
+Type : Missed
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 22
+Type : Outgoing
+
+number : +8801812725557
+duration : 18
+Type : Outgoing
+
+number : +8801812725557
+duration : 18
+Type : Outgoing
+
+number : +8801323081092
+duration : 0
+Type : Outgoing
+
+number : +8801323081092
+duration : 11
+Type : Outgoing
+
+number : +8801323081092
+duration : 0
+Type : Outgoing
+
+number : +8801323081092
+duration : 0
+Type : Outgoing
+
+number : 01787033902
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 40
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801717182419
+duration : 15
+Type : Outgoing
+
+number : +8801766180307
+duration : 18
+Type : Outgoing
+
+number : +8801717182419
+duration : 19
+Type : Outgoing
+
+number : 01737827320
+duration : 62
+Type : Outgoing
+
+number : 01774738915
+duration : 795
+Type : Outgoing
+
+number : +8801717182419
+duration : 74
+Type : Outgoing
+
+number : +8801766180307
+duration : 19
+Type : Outgoing
+
+number : +8801717182419
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 39
+Type : Incoming
+
+number : +8801717182419
+duration : 0
+Type : Missed
+
+number : +8801717182419
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801638704091
+duration : 0
+Type : Outgoing
+
+number : +8801875109588
+duration : 0
+Type : Outgoing
+
+number : +8801875109588
+duration : 15
+Type : Outgoing
+
+number : 01720142255
+duration : 0
+Type : Outgoing
+
+number : 01720142255
+duration : 11
+Type : Outgoing
+
+number : +8801766180307
+duration : 14
+Type : Outgoing
+
+number : +8801766180307
+duration : 44
+Type : Outgoing
+
+number : +8801766180307
+duration : 13
+Type : Outgoing
+
+number : +8801626713766
+duration : 0
+Type : Outgoing
+
+number : 01719578126
+duration : 0
+Type : Outgoing
+
+number : 01719578126
+duration : 0
+Type : Outgoing
+
+number : 01719578126
+duration : 0
+Type : Outgoing
+
+number : 01719578126
+duration : 0
+Type : Outgoing
+
+number : 01719578126
+duration : 0
+Type : Outgoing
+
+number : +8801719578126
+duration : 17
+Type : Incoming
+
+number : +8801719578126
+duration : 11
+Type : Outgoing
+
+number : 01748972108
+duration : 0
+Type : Outgoing
+
+number : +8801626713766
+duration : 0
+Type : Outgoing
+
+number : +8801719578126
+duration : 9
+Type : Incoming
+
+number : +8801626713766
+duration : 13
+Type : Outgoing
+
+number : +8801793159666
+duration : 9
+Type : Incoming
+
+number : 01759724646
+duration : 163
+Type : Outgoing
+
+number : +8801766180307
+duration : 40
+Type : Outgoing
+
+number : +8801717182419
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : 01737827320
+duration : 111
+Type : Outgoing
+
+number : 01737827320
+duration : 23
+Type : Outgoing
+
+number : +8801717182419
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 34
+Type : Outgoing
+
+number : +8801323081092
+duration : 0
+Type : Outgoing
+
+number : +8801323081092
+duration : 0
+Type : Outgoing
+
+number : +8801992427813
+duration : 44
+Type : Outgoing
+
+number : +8801992427813
+duration : 17
+Type : Incoming
+
+number : +8801992427813
+duration : 0
+Type : Missed
+
+number : +8801992427813
+duration : 0
+Type : Missed
+
+number : 01734758938
+duration : 14
+Type : Outgoing
+
+number : +8801734758938
+duration : 56
+Type : Incoming
+
+number : +8801766180307
+duration : 2
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 47
+Type : Incoming
+
+number : +8801323081092
+duration : 0
+Type : Outgoing
+
+number : +8801323081092
+duration : 17
+Type : Outgoing
+
+number : +8801766180307
+duration : 25
+Type : Outgoing
+
+number : 01724381577
+duration : 16
+Type : Outgoing
+
+number : 01724381577
+duration : 0
+Type : Outgoing
+
+number : 01724381577
+duration : 7
+Type : Outgoing
+
+number : 01724381577
+duration : 5
+Type : Outgoing
+
+number : 01724381577
+duration : 5
+Type : Outgoing
+
+number : *8444*88#
+duration : 0
+Type : Outgoing
+
+number : *8444*88#
+duration : 0
+Type : Outgoing
+
+number : +8801992427813
+duration : 0
+Type : Outgoing
+
+number : 01720142255
+duration : 0
+Type : Outgoing
+
+number : +8801720142255
+duration : 31
+Type : Incoming
+
+number : 16560
+duration : 8
+Type : Incoming
+
+number : +8801323081092
+duration : 31
+Type : Outgoing
+
+number : +8801323081092
+duration : 31
+Type : Outgoing
+
+number : +8801323081092
+duration : 10
+Type : Outgoing
+
+number : +8801323081092
+duration : 0
+Type : Outgoing
+
+number : +8801323081092
+duration : 0
+Type : Outgoing
+
+number : 01758919163
+duration : 0
+Type : Outgoing
+
+number : 01758919163
+duration : 0
+Type : Outgoing
+
+number : 01758919163
+duration : 0
+Type : Outgoing
+
+number : 01752120329
+duration : 39
+Type : Outgoing
+
+number : 01752120326
+duration : 36
+Type : Outgoing
+
+number : 01760172115
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 40
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 4
+Type : Outgoing
+
+number : +8801766180307
+duration : 6
+Type : Outgoing
+
+number : +8801766180307
+duration : 6
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 38
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 3
+Type : Incoming
+
+number : +8801308479241
+duration : 11
+Type : Outgoing
+
+number : +8801308479241
+duration : 11
+Type : Outgoing
+
+number : +8801308479241
+duration : 0
+Type : Outgoing
+
+number : +8801308479241
+duration : 8
+Type : Outgoing
+
+number : 01717826559
+duration : 0
+Type : Outgoing
+
+number : 01717826559
+duration : 148
+Type : Outgoing
+
+number : +8801875109588
+duration : 0
+Type : Outgoing
+
+number : 22288
+duration : 0
+Type : Missed
+
+number : +8801876139577
+duration : 6
+Type : Incoming
+
+number : +8801876139577
+duration : 5
+Type : Incoming
+
+number : +8801876139577
+duration : 9
+Type : Incoming
+
+number : +8801764448316
+duration : 0
+Type : Outgoing
+
+number : +8801764448316
+duration : 51
+Type : Outgoing
+
+number : +8801878094724
+duration : 9
+Type : Outgoing
+
+number : +8801317557287
+duration : 10
+Type : Outgoing
+
+number : 01861039455
+duration : 0
+Type : Outgoing
+
+number : +8801912161731
+duration : 12
+Type : Outgoing
+
+number : +8801912161731
+duration : 15
+Type : Outgoing
+
+number : +8801317557287
+duration : 6
+Type : Outgoing
+
+number : +8801317557287
+duration : 6
+Type : Outgoing
+
+number : +8801638704091
+duration : 0
+Type : Outgoing
+
+number : +8801638704091
+duration : 0
+Type : Outgoing
+
+number : +8801878094724
+duration : 19
+Type : Outgoing
+
+number : +8801878094724
+duration : 19
+Type : Outgoing
+
+number : +8801317557287
+duration : 8
+Type : Outgoing
+
+number : +8801766180307
+duration : 15
+Type : Outgoing
+
+number : 01752392382
+duration : 0
+Type : Outgoing
+
+number : 01752392382
+duration : 0
+Type : Outgoing
+
+number : +8801853660741
+duration : 0
+Type : Outgoing
+
+number : 01752392382
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801638704091
+duration : 0
+Type : Missed
+
+number : +8801638704091
+duration : 0
+Type : Outgoing
+
+number : +8801638704091
+duration : 0
+Type : Missed
+
+number : +8801638704091
+duration : 0
+Type : Missed
+
+number : +8801638704091
+duration : 43
+Type : Incoming
+
+number : +8801307904382
+duration : 36
+Type : Outgoing
+
+number : +8801888464800
+duration : 77
+Type : Outgoing
+
+number : +8801888464800
+duration : 77
+Type : Outgoing
+
+number : +8801888464800
+duration : 32
+Type : Incoming
+
+number : +8801888464800
+duration : 28
+Type : Incoming
+
+number : +8801912161731
+duration : 15
+Type : Outgoing
+
+number : +8801888464800
+duration : 27
+Type : Outgoing
+
+number : 01305830371
+duration : 0
+Type : Outgoing
+
+number : +8801912161731
+duration : 0
+Type : Outgoing
+
+number : 01305830371
+duration : 0
+Type : Outgoing
+
+number : +8801912161731
+duration : 0
+Type : Outgoing
+
+number : +8801912161731
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 14
+Type : Outgoing
+
+number : +8801638704091
+duration : 15
+Type : Incoming
+
+number : 01742233168
+duration : 12
+Type : Outgoing
+
+number : 01742233168
+duration : 11
+Type : Outgoing
+
+number : 01742233168
+duration : 17
+Type : Outgoing
+
+number : +8801742233168
+duration : 21
+Type : Incoming
+
+number : 01323081092
+duration : 35
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : 01323081092
+duration : 0
+Type : Outgoing
+
+number : 01323081092
+duration : 0
+Type : Outgoing
+
+number : 01323081092
+duration : 0
+Type : Outgoing
+
+number : 01766180307
+duration : 0
+Type : Outgoing
+
+number : 01323081092
+duration : 0
+Type : Outgoing
+
+number : 01323081092
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : 01720934292
+duration : 0
+Type : Outgoing
+
+number : 01720934292
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 26
+Type : Incoming
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : 01716696531
+duration : 19
+Type : Outgoing
+
+number : 01716796531
+duration : 0
+Type : Outgoing
+
+number : 01716796531
+duration : 0
+Type : Outgoing
+
+number : 01716796531
+duration : 0
+Type : Outgoing
+
+number : 01716441128
+duration : 49
+Type : Outgoing
+
+number : 01716441128
+duration : 0
+Type : Outgoing
+
+number : 01716796531
+duration : 0
+Type : Outgoing
+
+number : 01716441128
+duration : 0
+Type : Outgoing
+
+number : +8801878094724
+duration : 11
+Type : Outgoing
+
+number : +8801317557287
+duration : 6
+Type : Outgoing
+
+number : 01861039455
+duration : 24
+Type : Outgoing
+
+number : +8801317557287
+duration : 0
+Type : Outgoing
+
+number : +8801317557287
+duration : 10
+Type : Incoming
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : 24000
+duration : 1
+Type : Incoming
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801861039455
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 58
+Type : Outgoing
+
+number : +8801710263989
+duration : 7
+Type : Outgoing
+
+number : +8801710263989
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801638704091
+duration : 26
+Type : Incoming
+
+number : +8801638704091
+duration : 6
+Type : Incoming
+
+number : +8801992427813
+duration : 9
+Type : Outgoing
+
+number : +8801317557287
+duration : 0
+Type : Outgoing
+
+number : +8801317557287
+duration : 27
+Type : Incoming
+
+number : +8801990644727
+duration : 8
+Type : Outgoing
+
+number : +8801990644727
+duration : 21
+Type : Outgoing
+
+number : +8801317557287
+duration : 14
+Type : Outgoing
+
+number : +8801638704091
+duration : 13
+Type : Incoming
+
+number : +8801638704091
+duration : 15
+Type : Outgoing
+
+number : +8801638704091
+duration : 5
+Type : Incoming
+
+number : +8801812813675
+duration : 58
+Type : Outgoing
+
+number : +8801638704091
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 17
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801607885553
+duration : 14
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : 01637908037
+duration : 0
+Type : Outgoing
+
+number : 01720142255
+duration : 57
+Type : Outgoing
+
+number : +8801721774858
+duration : 20
+Type : Incoming
+
+number : +8801720142255
+duration : 41
+Type : Incoming
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801638704091
+duration : 46
+Type : Incoming
+
+number : 01720142255
+duration : 0
+Type : Outgoing
+
+number : 01720142255
+duration : 0
+Type : Outgoing
+
+number : +8801720142255
+duration : 47
+Type : Incoming
+
+number : +8801720142255
+duration : 31
+Type : Outgoing
+
+number : +8801638704091
+duration : 0
+Type : Outgoing
+
+number : +8801638704091
+duration : 5
+Type : Incoming
+
+number : 01812813675746632668228
+duration : 0
+Type : Outgoing
+
+number : +8801812813675
+duration : 32
+Type : Outgoing
+
+number : +8801764448316
+duration : 0
+Type : Missed
+
+number : +8801764448316
+duration : 9
+Type : Outgoing
+
+number : +8801764448316
+duration : 0
+Type : Missed
+
+number : +8801764448316
+duration : 6
+Type : Outgoing
+
+number : 01310629457
+duration : 0
+Type : Outgoing
+
+number : +8801764448316
+duration : 8
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 27
+Type : Outgoing
+
+number : +8801766180307
+duration : 35
+Type : Incoming
+
+number : +8801766180307
+duration : 36
+Type : Incoming
+
+number : +8801766180307
+duration : 6
+Type : Incoming
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801638704091
+duration : 8
+Type : Incoming
+
+number : +8801752398921
+duration : 0
+Type : Missed
+
+number : +8801752398921
+duration : 14
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Missed
+
+number : +8801752398921
+duration : 16
+Type : Outgoing
+
+number : 01720142255
+duration : 33
+Type : Outgoing
+
+number : 01720142255
+duration : 33
+Type : Outgoing
+
+number : +8801752398921
+duration : 6
+Type : Outgoing
+
+number : 01310629457
+duration : 52
+Type : Outgoing
+
+number : +8801638704091
+duration : 0
+Type : Outgoing
+
+number : +8801638704091
+duration : 0
+Type : Outgoing
+
+number : +8801638704091
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801638704091
+duration : 47
+Type : Incoming
+
+number : +8801638704091
+duration : 5
+Type : Outgoing
+
+number : +8801752398921
+duration : 10
+Type : Outgoing
+
+number : +8801638704091
+duration : 30
+Type : Incoming
+
+number : +8801721774858
+duration : 0
+Type : Missed
+
+number : +8801752398921
+duration : 15
+Type : Outgoing
+
+number : +8801878094724
+duration : 0
+Type : Outgoing
+
+number : 01887877118
+duration : 20
+Type : Outgoing
+
+number : +8801912161731
+duration : 13
+Type : Outgoing
+
+number : +8801317557287
+duration : 0
+Type : Outgoing
+
+number : +8801317557287
+duration : 5
+Type : Outgoing
+
+number : +8801317557287
+duration : 5
+Type : Outgoing
+
+number : +8801992427813
+duration : 10
+Type : Outgoing
+
+number : +8801638704091
+duration : 11
+Type : Incoming
+
+number : +8801638704091
+duration : 32
+Type : Incoming
+
+number : +8801638704091
+duration : 32
+Type : Incoming
+
+number : +8801721774858
+duration : 0
+Type : Missed
+
+number : +8801721774858
+duration : 8
+Type : Outgoing
+
+number : +8801766180307
+duration : 423
+Type : Incoming
+
+number : +8801766180307
+duration : 68
+Type : Incoming
+
+number : +8801638704091
+duration : 0
+Type : Outgoing
+
+number : +8801638704091
+duration : 9
+Type : Outgoing
+
+number : +8801638704091
+duration : 0
+Type : Outgoing
+
+number : +8801992427813
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 7
+Type : Outgoing
+
+number : 24000
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 36
+Type : Incoming
+
+number : +8801638704091
+duration : 0
+Type : Outgoing
+
+number : +8801638704091
+duration : 0
+Type : Outgoing
+
+number : +8801992427813
+duration : 8
+Type : Outgoing
+
+number : +8801992427813
+duration : 8
+Type : Outgoing
+
+number : +8801317557287
+duration : 15
+Type : Outgoing
+
+number : +8801638704091
+duration : 0
+Type : Missed
+
+number : +8801310629457
+duration : 54
+Type : Incoming
+
+number : +8801721774858
+duration : 10
+Type : Incoming
+
+number : +8801766180307
+duration : 19
+Type : Incoming
+
+number : +8801876093435
+duration : 0
+Type : Outgoing
+
+number : +8801638704091
+duration : 0
+Type : Outgoing
+
+number : +8801638704091
+duration : 8
+Type : Outgoing
+
+number : 01861039455
+duration : 0
+Type : Outgoing
+
+number : +8801317557287
+duration : 18
+Type : Outgoing
+
+number : 01861039455
+duration : 0
+Type : Outgoing
+
+number : 01758919163
+duration : 36
+Type : Outgoing
+
+number : 01758919163
+duration : 36
+Type : Outgoing
+
+number : 121
+duration : 13
+Type : Incoming
+
+number : +8801721774858
+duration : 0
+Type : Missed
+
+number : +8801721774858
+duration : 0
+Type : Missed
+
+number : 01777586111
+duration : 108
+Type : Outgoing
+
+number : 22828
+duration : 0
+Type : Missed
+
+number : +8801878094724
+duration : 0
+Type : Missed
+
+number : +8801752398921
+duration : 0
+Type : Missed
+
+number : +8801878094724
+duration : 17
+Type : Incoming
+
+number : +8801878094724
+duration : 9
+Type : Incoming
+
+number : +8801878094724
+duration : 8
+Type : Incoming
+
+number : +8801720142255
+duration : 31
+Type : Outgoing
+
+number : +8801720142255
+duration : 31
+Type : Outgoing
+
+number : +8801720142255
+duration : 32
+Type : Outgoing
+
+number : +8801720142255
+duration : 32
+Type : Outgoing
+
+number : +8801713539309
+duration : 0
+Type : Missed
+
+number : +8801713539309
+duration : 0
+Type : Outgoing
+
+number : +8801713539309
+duration : 13
+Type : Outgoing
+
+number : +8801720142255
+duration : 12
+Type : Outgoing
+
+number : +8801766180307
+duration : 26
+Type : Incoming
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : 01861039455
+duration : 0
+Type : Outgoing
+
+number : +8801317557287
+duration : 0
+Type : Outgoing
+
+number : +8801317557287
+duration : 5
+Type : Incoming
+
+number : 01861039455
+duration : 0
+Type : Outgoing
+
+number : 01861039455
+duration : 31
+Type : Outgoing
+
+number : 01709221452
+duration : 0
+Type : Outgoing
+
+number : +8801709221452
+duration : 39
+Type : Incoming
+
+number : +8801721774858
+duration : 7
+Type : Incoming
+
+number : 01720142255
+duration : 18
+Type : Outgoing
+
+number : 01327128787
+duration : 0
+Type : Outgoing
+
+number : 01327128787
+duration : 0
+Type : Outgoing
+
+number : 01327128787
+duration : 7
+Type : Outgoing
+
+number : 01327128787
+duration : 8
+Type : Outgoing
+
+number : 01327128787
+duration : 8
+Type : Outgoing
+
+number : +8801310892966
+duration : 35
+Type : Incoming
+
+number : +8801860136754
+duration : 0
+Type : Missed
+
+number : 01861039455
+duration : 4
+Type : Outgoing
+
+number : 01861039455
+duration : 4
+Type : Outgoing
+
+number : +8801317557287
+duration : 3
+Type : Outgoing
+
+number : +8801317557287
+duration : 13
+Type : Incoming
+
+number : +8801317557287
+duration : 5
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 52
+Type : Outgoing
+
+number : +8801721774858
+duration : 4
+Type : Incoming
+
+number : +8801721774858
+duration : 4
+Type : Incoming
+
+number : +8801721774858
+duration : 0
+Type : Missed
+
+number : +8801721774858
+duration : 0
+Type : Outgoing
+
+number : 01887877118
+duration : 0
+Type : Outgoing
+
+number : 01887877118
+duration : 3
+Type : Outgoing
+
+number : +8801875109588
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : 01861039455
+duration : 6
+Type : Outgoing
+
+number : +8801317557287
+duration : 5
+Type : Outgoing
+
+number : +8801766180307
+duration : 168
+Type : Incoming
+
+number : +8801720142255
+duration : 8
+Type : Incoming
+
+number : +8801720142255
+duration : 0
+Type : Missed
+
+number : +8801957645062
+duration : 251
+Type : Incoming
+
+number : +8801766180307
+duration : 128
+Type : Incoming
+
+number : +8801766180307
+duration : 16
+Type : Incoming
+
+number : +8801766180307
+duration : 16
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 17
+Type : Incoming
+
+number : 24000
+duration : 0
+Type : Missed
+
+number : +8801720142255
+duration : 0
+Type : Missed
+
+number : +8801317557287
+duration : 23
+Type : Incoming
+
+number : +8801317557287
+duration : 0
+Type : Missed
+
+number : +8801878094724
+duration : 0
+Type : Missed
+
+number : +8801878094724
+duration : 0
+Type : Missed
+
+number : +8801317557287
+duration : 16
+Type : Incoming
+
+number : +8801717182419
+duration : 0
+Type : Missed
+
+number : +8801717182419
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 98
+Type : Incoming
+
+number : +8801957645062
+duration : 0
+Type : Missed
+
+number : +8801957645062
+duration : 0
+Type : Missed
+
+number : +8801957645062
+duration : 0
+Type : Missed
+
+number : +8801957645062
+duration : 0
+Type : Outgoing
+
+number : +8801957645062
+duration : 0
+Type : Outgoing
+
+number : +8801912161731
+duration : 0
+Type : Outgoing
+
+number : +8801912161731
+duration : 10
+Type : Outgoing
+
+number : +8801317557287
+duration : 17
+Type : Outgoing
+
+number : +8801912161731
+duration : 0
+Type : Outgoing
+
+number : +8801912161731
+duration : 0
+Type : Outgoing
+
+number : +8801912161731
+duration : 0
+Type : Outgoing
+
+number : +8801317557287
+duration : 5
+Type : Outgoing
+
+number : +8801317557287
+duration : 13
+Type : Incoming
+
+number : +8801308479241
+duration : 5
+Type : Incoming
+
+number : +8801756493284
+duration : 0
+Type : Missed
+
+number : +8801756493284
+duration : 0
+Type : Missed
+
+number : +8801756493284
+duration : 0
+Type : Missed
+
+number : +8801756493284
+duration : 0
+Type : Missed
+
+number : +8801721774858
+duration : 4
+Type : Incoming
+
+number : +8801721774858
+duration : 4
+Type : Incoming
+
+number : +8801308479241
+duration : 0
+Type : Outgoing
+
+number : +8801720142255
+duration : 13
+Type : Outgoing
+
+number : +8801308479241
+duration : 3
+Type : Incoming
+
+number : 01999917464
+duration : 0
+Type : Outgoing
+
+number : +8801308479241
+duration : 11
+Type : Incoming
+
+number : +8801317557287
+duration : 6
+Type : Outgoing
+
+number : +8801717182419
+duration : 129
+Type : Incoming
+
+number : +8801878094724
+duration : 0
+Type : Missed
+
+number : +8801308479241
+duration : 0
+Type : Missed
+
+number : +8801317557287
+duration : 17
+Type : Incoming
+
+number : +8801912161731
+duration : 0
+Type : Outgoing
+
+number : +8801912161731
+duration : 0
+Type : Outgoing
+
+number : +8801992427813
+duration : 0
+Type : Outgoing
+
+number : 01861039455
+duration : 0
+Type : Outgoing
+
+number : +8801317557287
+duration : 0
+Type : Outgoing
+
+number : +8801317557287
+duration : 0
+Type : Outgoing
+
+number : +8801317557287
+duration : 0
+Type : Outgoing
+
+number : 01714379101
+duration : 54
+Type : Outgoing
+
+number : +8801308479241
+duration : 0
+Type : Missed
+
+number : +8801308479241
+duration : 0
+Type : Missed
+
+number : +8801308479241
+duration : 18
+Type : Outgoing
+
+number : +8801752398921
+duration : 14
+Type : Incoming
+
+number : +8801766180307
+duration : 58
+Type : Incoming
+
+number : +8801766180307
+duration : 68
+Type : Incoming
+
+number : +8801766180307
+duration : 95
+Type : Incoming
+
+number : +8801766180307
+duration : 20
+Type : Incoming
+
+number : +8801308479241
+duration : 0
+Type : Outgoing
+
+number : 01737827320
+duration : 18
+Type : Outgoing
+
+number : +8801308479241
+duration : 0
+Type : Outgoing
+
+number : +8801308479241
+duration : 23
+Type : Outgoing
+
+number : +8801308479241
+duration : 5
+Type : Incoming
+
+number : +8801308479241
+duration : 4
+Type : Incoming
+
+number : +8801308479241
+duration : 4
+Type : Incoming
+
+number : 01310892966
+duration : 39
+Type : Outgoing
+
+number : +8801310629457
+duration : 0
+Type : Missed
+
+number : 01323081092
+duration : 8
+Type : Outgoing
+
+number : 01323081092
+duration : 0
+Type : Outgoing
+
+number : +8801308479241
+duration : 0
+Type : Missed
+
+number : +8801308479241
+duration : 0
+Type : Missed
+
+number : +8801308479241
+duration : 0
+Type : Missed
+
+number : +8801308479241
+duration : 13
+Type : Outgoing
+
+number : +8801752404904
+duration : 0
+Type : Missed
+
+number : +8801737827320
+duration : 22
+Type : Incoming
+
+number : +8801878094724
+duration : 15
+Type : Outgoing
+
+number : +8801308479241
+duration : 8
+Type : Outgoing
+
+number : +8801737827320
+duration : 16
+Type : Incoming
+
+number : +8801737827320
+duration : 20
+Type : Outgoing
+
+number : +8801308479241
+duration : 5
+Type : Incoming
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801764448316
+duration : 0
+Type : Outgoing
+
+number : +8801764448316
+duration : 0
+Type : Outgoing
+
+number : +8801764448316
+duration : 16
+Type : Outgoing
+
+number : +8801310629457
+duration : 0
+Type : Missed
+
+number : +8801812739945
+duration : 39
+Type : Incoming
+
+number : +8801812739945
+duration : 30
+Type : Outgoing
+
+number : +8801812739945
+duration : 29
+Type : Incoming
+
+number : 01870547491
+duration : 0
+Type : Outgoing
+
+number : +8801308479241
+duration : 6
+Type : Incoming
+
+number : +8801605927412
+duration : 54
+Type : Incoming
+
+number : +8801605927412
+duration : 54
+Type : Incoming
+
+number : 01720142255
+duration : 0
+Type : Outgoing
+
+number : 01720142255
+duration : 0
+Type : Outgoing
+
+number : +8801887877118
+duration : 0
+Type : Missed
+
+number : +8801310629457
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 54
+Type : Incoming
+
+number : 01752398921
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 88
+Type : Incoming
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 70
+Type : Incoming
+
+number : +8801875109588
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801308479241
+duration : 0
+Type : Missed
+
+number : +8801308479241
+duration : 18
+Type : Incoming
+
+number : +8801308479241
+duration : 18
+Type : Incoming
+
+number : +8801317557287
+duration : 0
+Type : Missed
+
+number : +8801317557287
+duration : 0
+Type : Missed
+
+number : +8801317557287
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 5
+Type : Incoming
+
+number : +8801308479241
+duration : 20
+Type : Incoming
+
+number : +8801308479241
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 9
+Type : Incoming
+
+number : +8801766180307
+duration : 12
+Type : Incoming
+
+number : +8801737827320
+duration : 35
+Type : Incoming
+
+number : +8801737827320
+duration : 11
+Type : Incoming
+
+number : +8801737827320
+duration : 11
+Type : Incoming
+
+number : +8801737827320
+duration : 12
+Type : Incoming
+
+number : +8801737827320
+duration : 12
+Type : Incoming
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801308479241
+duration : 0
+Type : Missed
+
+number : +8801737827320
+duration : 8
+Type : Incoming
+
+number : +8801766180307
+duration : 16
+Type : Incoming
+
+number : +8801317557287
+duration : 3
+Type : Incoming
+
+number : +8801308479241
+duration : 0
+Type : Missed
+
+number : +8801308479241
+duration : 0
+Type : Missed
+
+number : +8801310892966
+duration : 0
+Type : Missed
+
+number : +8801718301923
+duration : 22
+Type : Incoming
+
+number : +8801715020423
+duration : 12
+Type : Incoming
+
+number : +8801752398921
+duration : 0
+Type : Missed
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801720142255
+duration : 13
+Type : Incoming
+
+number : +8801766180307
+duration : 13
+Type : Incoming
+
+number : +8801766180307
+duration : 25
+Type : Incoming
+
+number : +8801766180307
+duration : 25
+Type : Incoming
+
+number : +8801744345403
+duration : 19
+Type : Incoming
+
+number : +8801718252417
+duration : 0
+Type : Missed
+
+number : +8801720142255
+duration : 7
+Type : Incoming
+
+number : +8801300542567
+duration : 11
+Type : Incoming
+
+number : +8801752404904
+duration : 0
+Type : Missed
+
+number : +8801317557287
+duration : 8
+Type : Incoming
+
+number : +8801838115241
+duration : 14
+Type : Incoming
+
+number : 01720934292
+duration : 0
+Type : Outgoing
+
+number : +8801875109588
+duration : 0
+Type : Outgoing
+
+number : +8801875109588
+duration : 0
+Type : Outgoing
+
+number : +8801875109588
+duration : 10
+Type : Incoming
+
+number : +8801752398921
+duration : 29
+Type : Incoming
+
+number : +8801752398921
+duration : 29
+Type : Incoming
+
+number : +8801875109588
+duration : 67
+Type : Incoming
+
+number : +8801317557287
+duration : 9
+Type : Incoming
+
+number : +8801317557287
+duration : 9
+Type : Incoming
+
+number : +8801717182419
+duration : 37
+Type : Incoming
+
+number : +8801717182419
+duration : 7
+Type : Incoming
+
+number : +8801717182419
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 9
+Type : Outgoing
+
+number : +8801752398921
+duration : 27
+Type : Outgoing
+
+number : +8801875109588
+duration : 57
+Type : Outgoing
+
+number : +8801875109588
+duration : 1
+Type : Incoming
+
+number : +8801875109588
+duration : 20
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801717182419
+duration : 6
+Type : Incoming
+
+number : +8801717182419
+duration : 10
+Type : Incoming
+
+number : +8801765210605
+duration : 26
+Type : Incoming
+
+number : +8801317557287
+duration : 9
+Type : Incoming
+
+number : 164529
+duration : 0
+Type : Missed
+
+number : +8801638704091
+duration : 0
+Type : Missed
+
+number : +8801638704091
+duration : 0
+Type : Missed
+
+number : +8801638704091
+duration : 27
+Type : Incoming
+
+number : +8801638704091
+duration : 19
+Type : Incoming
+
+number : +8801638704091
+duration : 41
+Type : Incoming
+
+number : +8801638704091
+duration : 52
+Type : Incoming
+
+number : +8801638704091
+duration : 25
+Type : Incoming
+
+number : +966596433545
+duration : 59
+Type : Incoming
+
+number : +8801638704091
+duration : 30
+Type : Incoming
+
+number : +8801766180307
+duration : 104
+Type : Incoming
+
+number : +8801718301923
+duration : 0
+Type : Missed
+
+number : +8801718301923
+duration : 0
+Type : Missed
+
+number : +8801718301923
+duration : 0
+Type : Missed
+
+number : 2847797
+duration : 8
+Type : Incoming
+
+number : +8801310893043
+duration : 70
+Type : Incoming
+
+number : +8801317557287
+duration : 0
+Type : Outgoing
+
+number : 01327128787
+duration : 10
+Type : Outgoing
+
+number : +8801317557287
+duration : 12
+Type : Outgoing
+
+number : +8801887877118
+duration : 0
+Type : Missed
+
+number : +8801887877118
+duration : 0
+Type : Missed
+
+number : +8801310893043
+duration : 0
+Type : Missed
+
+number : +8801310893043
+duration : 94
+Type : Incoming
+
+number : 1658091
+duration : 7
+Type : Incoming
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801954058811
+duration : 21
+Type : Incoming
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801718301923
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 13
+Type : Outgoing
+
+number : +8801766180307
+duration : 9
+Type : Outgoing
+
+number : +8801718301923
+duration : 17
+Type : Incoming
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801954058811
+duration : 8
+Type : Incoming
+
+number : 01752398921
+duration : 8
+Type : Outgoing
+
+number : 01752398921
+duration : 29
+Type : Outgoing
+
+number : 01752398921
+duration : 64
+Type : Outgoing
+
+number : 01752398921
+duration : 29
+Type : Outgoing
+
+number : +8801954058811
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 0
+Type : Missed
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 0
+Type : Outgoing
+
+number : +8801954058811
+duration : 0
+Type : Outgoing
+
+number : +8801718252417
+duration : 0
+Type : Missed
+
+number : 01720142255
+duration : 0
+Type : Outgoing
+
+number : +8801954058811
+duration : 27
+Type : Incoming
+
+number : +8801954058811
+duration : 27
+Type : Incoming
+
+number : +8801999119604
+duration : 0
+Type : Outgoing
+
+number : +8801954058811
+duration : 26
+Type : Incoming
+
+number : +8801954058811
+duration : 26
+Type : Incoming
+
+number : +8801718252417
+duration : 0
+Type : Missed
+
+number : +8801718252417
+duration : 0
+Type : Missed
+
+number : +8801718252417
+duration : 9
+Type : Outgoing
+
+number : +8801718252417
+duration : 9
+Type : Outgoing
+
+number : +8801954058811
+duration : 0
+Type : Outgoing
+
+number : 01766180307
+duration : 0
+Type : Outgoing
+
+number : +8801766180307
+duration : 18
+Type : Incoming
+
+number : +8801887877118
+duration : 0
+Type : Missed
+
+number : +8801887877118
+duration : 0
+Type : Missed
+
+number : +8801887877118
+duration : 0
+Type : Missed
+
+number : +8801887877118
+duration : 0
+Type : Missed
+
+number : +8801887877118
+duration : 0
+Type : Missed
+
+number : +8801887877118
+duration : 0
+Type : Missed
+
+number : +8801317557287
+duration : 9
+Type : Outgoing
+
+number : 01752209763
+duration : 0
+Type : Outgoing
+
+number : 01752209763
+duration : 0
+Type : Outgoing
+
+number : +8801887877118
+duration : 0
+Type : Missed
+
+number : +8801887877118
+duration : 0
+Type : Missed
+
+number : +8801887877118
+duration : 0
+Type : Missed
+
+number : +8801887877118
+duration : 0
+Type : Missed
+
+number : +8801887877118
+duration : 0
+Type : Missed
+
+number : +8801887877118
+duration : 0
+Type : Missed
+
+number : +8801720142255
+duration : 5
+Type : Incoming
+
+number : +8801317557287
+duration : 0
+Type : Missed
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801638704091
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801954058811
+duration : 78
+Type : Incoming
+
+number : +8801720142255
+duration : 18
+Type : Outgoing
+
+number : 01721774858
+duration : 37
+Type : Outgoing
+
+number : +8801887877118
+duration : 1
+Type : Incoming
+
+number : +8801887877118
+duration : 0
+Type : Missed
+
+number : +8801887877118
+duration : 0
+Type : Missed
+
+number : +8801887877118
+duration : 7
+Type : Incoming
+
+number : 2847745
+duration : 3
+Type : Incoming
+
+number : +8801766180307
+duration : 81
+Type : Incoming
+
+number : +8801766180307
+duration : 71
+Type : Outgoing
+
+number : 01752398921
+duration : 0
+Type : Outgoing
+
+number : 01752398921
+duration : 0
+Type : Outgoing
+
+number : 01310892966
+duration : 11
+Type : Outgoing
+
+number : 01310892966
+duration : 11
+Type : Outgoing
+
+number : +8801997940888
+duration : 0
+Type : Missed
+
+number : +8801717182419
+duration : 0
+Type : Incoming
+
+number : 01752398921
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 168
+Type : Outgoing
+
+number : +8801715685454
+duration : 20
+Type : Outgoing
+
+number : +8801644148539
+duration : 215
+Type : Incoming
+
+number : +8801812739945
+duration : 38
+Type : Incoming
+
+number : +8801812739945
+duration : 88
+Type : Incoming
+
+number : +8801766180307
+duration : 144
+Type : Incoming
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : 01775837481
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 50
+Type : Incoming
+
+number : +8801717182419
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 31
+Type : Incoming
+
+number : +8801717182419
+duration : 7
+Type : Incoming
+
+number : +8801717182419
+duration : 5
+Type : Outgoing
+
+number : +8801717182419
+duration : 36
+Type : Incoming
+
+number : +8801717182419
+duration : 26
+Type : Incoming
+
+number : +8801717182419
+duration : 26
+Type : Incoming
+
+number : 01889472956
+duration : 0
+Type : Outgoing
+
+number : 01889472956
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 8
+Type : Incoming
+
+number : +8801308479241
+duration : 0
+Type : Missed
+
+number : +8801752398921
+duration : 0
+Type : Missed
+
+number : +8801308479241
+duration : 0
+Type : Missed
+
+number : +8801310893043
+duration : 65
+Type : Incoming
+
+number : +8801308479241
+duration : 0
+Type : Missed
+
+number : +8801717182419
+duration : 0
+Type : Missed
+
+number : +8801717182419
+duration : 0
+Type : Missed
+
+number : +8801315741200
+duration : 0
+Type : Missed
+
+number : +8801315741200
+duration : 0
+Type : Outgoing
+
+number : +8801315741200
+duration : 0
+Type : Outgoing
+
+number : +8801315741200
+duration : 0
+Type : Outgoing
+
+number : +8801308479241
+duration : 0
+Type : Outgoing
+
+number : +8801308479241
+duration : 0
+Type : Outgoing
+
+number : +8801315741200
+duration : 0
+Type : Outgoing
+
+number : +8801315741200
+duration : 0
+Type : Outgoing
+
+number : +8801315741200
+duration : 0
+Type : Missed
+
+number : +8801315741200
+duration : 0
+Type : Missed
+
+number : +8801310893043
+duration : 0
+Type : Outgoing
+
+number : +8801954058811
+duration : 0
+Type : Outgoing
+
+number : +8801954058811
+duration : 97
+Type : Incoming
+
+number : +8801315741200
+duration : 0
+Type : Outgoing
+
+number : +8801315741200
+duration : 0
+Type : Outgoing
+
+number : +8801315741200
+duration : 0
+Type : Outgoing
+
+number : +8801315741200
+duration : 0
+Type : Outgoing
+
+number : +8801315741200
+duration : 0
+Type : Outgoing
+
+number : +8801315741200
+duration : 10
+Type : Outgoing
+
+number : +8801315741200
+duration : 10
+Type : Outgoing
+
+number : 01774738915
+duration : 0
+Type : Outgoing
+
+number : +8801954058811
+duration : 15
+Type : Outgoing
+
+number : +8801954058811
+duration : 15
+Type : Outgoing
+
+number : +8801976509877
+duration : 0
+Type : Outgoing
+
+number : +8801308479241
+duration : 16
+Type : Outgoing
+
+number : +8801878094724
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 23
+Type : Incoming
+
+number : +8801717182419
+duration : 6
+Type : Outgoing
+
+number : +8801838115241
+duration : 2
+Type : Incoming
+
+number : +8801838115241
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 12
+Type : Incoming
+
+number : +8801718301923
+duration : 7
+Type : Incoming
+
+number : +8801718301923
+duration : 6
+Type : Incoming
+
+number : +8801748972108
+duration : 32
+Type : Incoming
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 19
+Type : Incoming
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 28
+Type : Incoming
+
+number : +8801718301923
+duration : 14
+Type : Incoming
+
+number : +8801600436590
+duration : 3
+Type : Incoming
+
+number : +8801878094724
+duration : 25
+Type : Incoming
+
+number : +8801954058811
+duration : 20
+Type : Incoming
+
+number : +8801954058811
+duration : 47
+Type : Incoming
+
+number : +8801310892966
+duration : 19
+Type : Incoming
+
+number : +8801310892966
+duration : 0
+Type : Outgoing
+
+number : +8801310892966
+duration : 12
+Type : Incoming
+
+number : +8801718301923
+duration : 5
+Type : Incoming
+
+number : +8801718301923
+duration : 5
+Type : Incoming
+
+number : +8801878094724
+duration : 3
+Type : Incoming
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 13
+Type : Outgoing
+
+number : +8801764515612
+duration : 60
+Type : Incoming
+
+number : +8801764515612
+duration : 60
+Type : Incoming
+
+number : +8801764515612
+duration : 35
+Type : Incoming
+
+number : 01717182419
+duration : 0
+Type : Outgoing
+
+number : +8801310892966
+duration : 84
+Type : Outgoing
+
+number : +8801954058811
+duration : 49
+Type : Incoming
+
+number : +8801954058811
+duration : 201
+Type : Outgoing
+
+number : +8801954058811
+duration : 369
+Type : Outgoing
+
+number : +8801875109588
+duration : 540
+Type : Outgoing
+
+number : +8801875109588
+duration : 540
+Type : Outgoing
+
+number : +8801954058811
+duration : 0
+Type : Missed
+
+number : +8801954058811
+duration : 61
+Type : Outgoing
+
+number : 01717182419
+duration : 0
+Type : Outgoing
+
+number : 01717182419
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 77
+Type : Incoming
+
+number : +8801954058811
+duration : 74
+Type : Incoming
+
+number : +8801308479241
+duration : 0
+Type : Missed
+
+number : +8801326428120
+duration : 238
+Type : Incoming
+
+number : +8801326428120
+duration : 1144
+Type : Incoming
+
+number : +8801997940888
+duration : 29
+Type : Incoming
+
+number : +8801773178084
+duration : 0
+Type : Missed
+
+number : +8801773178084
+duration : 34
+Type : Incoming
+
+number : +8801773178084
+duration : 34
+Type : Incoming
+
+number : +8801954058811
+duration : 0
+Type : Missed
+
+number : +8801954058811
+duration : 0
+Type : Missed
+
+number : +8801954058811
+duration : 0
+Type : Missed
+
+number : 164529
+duration : 0
+Type : Missed
+
+number : +8801954058811
+duration : 18
+Type : Outgoing
+
+number : 01861039455
+duration : 22
+Type : Outgoing
+
+number : +8801721774858
+duration : 6
+Type : Incoming
+
+number : 01861039455
+duration : 7
+Type : Outgoing
+
+number : 01720142255
+duration : 0
+Type : Outgoing
+
+number : +8801718252417
+duration : 21
+Type : Incoming
+
+number : 01748972108
+duration : 104
+Type : Outgoing
+
+number : 01861039455
+duration : 22
+Type : Outgoing
+
+number : +8801954058811
+duration : 13
+Type : Outgoing
+
+number : 01752209763
+duration : 0
+Type : Outgoing
+
+number : 01752209763
+duration : 0
+Type : Outgoing
+
+number : 01752209763
+duration : 0
+Type : Outgoing
+
+number : 01752209763
+duration : 0
+Type : Outgoing
+
+number : 01752209763
+duration : 0
+Type : Outgoing
+
+number : +8801954058811
+duration : 21
+Type : Outgoing
+
+number : +8801878094724
+duration : 0
+Type : Outgoing
+
+number : +8801954058811
+duration : 24
+Type : Outgoing
+
+number : 01861039455
+duration : 9
+Type : Outgoing
+
+number : 01861039455
+duration : 9
+Type : Outgoing
+
+number : +8801717182419
+duration : 0
+Type : Missed
+
+number : +8801812739945
+duration : 0
+Type : Missed
+
+number : +8801717182419
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 18
+Type : Outgoing
+
+number : +8801812739945
+duration : 0
+Type : Outgoing
+
+number : 01793159666
+duration : 16
+Type : Outgoing
+
+number : +8801812739945
+duration : 36
+Type : Incoming
+
+number : +8801717182419
+duration : 22
+Type : Incoming
+
+number : +8801721774858
+duration : 0
+Type : Missed
+
+number : +8801721774858
+duration : 0
+Type : Outgoing
+
+number : +8801721774858
+duration : 0
+Type : Outgoing
+
+number : +8801721774858
+duration : 19
+Type : Incoming
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : 01783828105
+duration : 0
+Type : Outgoing
+
+number : +8801752398921
+duration : 0
+Type : Outgoing
+
+number : 01776708210
+duration : 0
+Type : Outgoing
+
+number : 01776708210
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801638704091
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 37
+Type : Outgoing
+
+number : +8801812725557
+duration : 37
+Type : Outgoing
+
+number : 01776708210
+duration : 14
+Type : Outgoing
+
+number : +8801717182419
+duration : 18
+Type : Outgoing
+
+number : +8801954058811
+duration : 139
+Type : Outgoing
+
+number : +8801764448316
+duration : 70
+Type : Outgoing
+
+number : +8801714727914
+duration : 0
+Type : Missed
+
+number : +8801714727914
+duration : 33
+Type : Outgoing
+
+number : +8801714727914
+duration : 0
+Type : Missed
+
+number : +8801714727914
+duration : 0
+Type : Missed
+
+number : +8801714727914
+duration : 0
+Type : Missed
+
+number : +8801714727914
+duration : 20
+Type : Outgoing
+
+number : +8801714727914
+duration : 0
+Type : Missed
+
+number : +8801714727914
+duration : 0
+Type : Missed
+
+number : +8801714727914
+duration : 0
+Type : Missed
+
+number : +8801733154778
+duration : 31
+Type : Incoming
+
+number : +8801733154778
+duration : 52
+Type : Outgoing
+
+number : +8801733154778
+duration : 0
+Type : Missed
+
+number : +8801733154778
+duration : 118
+Type : Outgoing
+
+number : 01783653695
+duration : 0
+Type : Outgoing
+
+number : 01720934292
+duration : 67
+Type : Outgoing
+
+number : 01764515612
+duration : 0
+Type : Outgoing
+
+number : +8801778436160
+duration : 0
+Type : Outgoing
+
+number : 01724381577
+duration : 163
+Type : Outgoing
+
+number : 01739405902
+duration : 193
+Type : Outgoing
+
+number : +8801717182419
+duration : 8
+Type : Incoming
+
+number : +8801308479241
+duration : 0
+Type : Outgoing
+
+number : +8801308479241
+duration : 0
+Type : Outgoing
+
+number : +8801308479241
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 0
+Type : Missed
+
+number : +8801721774858
+duration : 17
+Type : Incoming
+
+number : 01760356658
+duration : 0
+Type : Outgoing
+
+number : 01760356658
+duration : 0
+Type : Outgoing
+
+number : 01760356658
+duration : 25
+Type : Outgoing
+
+number : +8801718252417
+duration : 14
+Type : Incoming
+
+number : +8801748972108
+duration : 8
+Type : Incoming
+
+number : +8801717182419
+duration : 12
+Type : Incoming
+
+number : +8801717182419
+duration : 15
+Type : Incoming
+
+number : 01720142255
+duration : 11
+Type : Outgoing
+
+number : +8801318535111
+duration : 38
+Type : Incoming
+
+number : +8801718252417
+duration : 0
+Type : Missed
+
+number : +8801718252417
+duration : 0
+Type : Outgoing
+
+number : +8801718252417
+duration : 24
+Type : Incoming
+
+number : +8801878094724
+duration : 10
+Type : Outgoing
+
+number : +8801721774858
+duration : 0
+Type : Outgoing
+
+number : +8801721774858
+duration : 12
+Type : Incoming
+
+number : +8801721774858
+duration : 12
+Type : Incoming
+
+number : +8801812725557
+duration : 13
+Type : Incoming
+
+number : +8801721774858
+duration : 55
+Type : Incoming
+
+number : 01760356658
+duration : 19
+Type : Outgoing
+
+number : +8801717182419
+duration : 153
+Type : Incoming
+
+number : +8801317557287
+duration : 8
+Type : Outgoing
+
+number : +8801812725557
+duration : 15
+Type : Incoming
+
+number : +8801812725557
+duration : 7
+Type : Incoming
+
+number : +8801812725557
+duration : 5
+Type : Outgoing
+
+number : +8801812725557
+duration : 9
+Type : Incoming
+
+number : 01720142255
+duration : 0
+Type : Outgoing
+
+number : 01720142255
+duration : 0
+Type : Outgoing
+
+number : 01720142255
+duration : 0
+Type : Outgoing
+
+number : +8801878094724
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 17
+Type : Incoming
+
+number : +8801812725557
+duration : 17
+Type : Incoming
+
+number : +8801812725557
+duration : 9
+Type : Outgoing
+
+number : +8801812739945
+duration : 9
+Type : Outgoing
+
+number : +8801812739945
+duration : 12
+Type : Outgoing
+
+number : 01720142255
+duration : 0
+Type : Outgoing
+
+number : +8801718252417
+duration : 20
+Type : Incoming
+
+number : +8801718252417
+duration : 20
+Type : Incoming
+
+number : +8801812725557
+duration : 13
+Type : Incoming
+
+number : +8801812725557
+duration : 5
+Type : Incoming
+
+number : +8801812739945
+duration : 0
+Type : Outgoing
+
+number : +8801812739945
+duration : 0
+Type : Outgoing
+
+number : +8801718252417
+duration : 0
+Type : Outgoing
+
+number : +8801718252417
+duration : 6
+Type : Incoming
+
+number : +8801812739945
+duration : 5
+Type : Outgoing
+
+number : +8801812725557
+duration : 21
+Type : Outgoing
+
+number : +8801812725557
+duration : 11
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Missed
+
+number : +8801997940888
+duration : 0
+Type : Missed
+
+number : +8801997940888
+duration : 0
+Type : Missed
+
+number : +8801997940888
+duration : 0
+Type : Outgoing
+
+number : +8801997940888
+duration : 21
+Type : Incoming
+
+number : +8801997940888
+duration : 21
+Type : Incoming
+
+number : +8801317557287
+duration : 10
+Type : Outgoing
+
+number : +8801997940888
+duration : 21
+Type : Outgoing
+
+number : +8801997940888
+duration : 14
+Type : Incoming
+
+number : +8801878094724
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 28
+Type : Incoming
+
+number : +8801992427813
+duration : 0
+Type : Outgoing
+
+number : +8801992427813
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 24
+Type : Incoming
+
+number : +8801717182419
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 0
+Type : Outgoing
+
+number : +8801717182419
+duration : 63
+Type : Outgoing
+
+number : +8801812725557
+duration : 20
+Type : Incoming
+
+number : +8801812725557
+duration : 13
+Type : Incoming
+
+number : +8801812725557
+duration : 13
+Type : Incoming
+
+number : +8801812725557
+duration : 10
+Type : Incoming
+
+number : +8801812725557
+duration : 0
+Type : Missed
+
+number : +8801812725557
+duration : 0
+Type : Missed
+
+number : 01748972108
+duration : 13
+Type : Outgoing
+
+number : 01748972108
+duration : 13
+Type : Outgoing
+
+number : +8801954058811
+duration : 88
+Type : Outgoing
+
+number : 01718301923
+duration : 0
+Type : Outgoing
+
+number : +8801718301923
+duration : 15
+Type : Incoming
+
+number : +8801624759284
+duration : 16
+Type : Incoming
+
+number : +8801624759284
+duration : 11
+Type : Outgoing
+
+number : +8801624759284
+duration : 11
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 104
+Type : Incoming
+
+number : +8801812725557
+duration : 13
+Type : Incoming
+
+number : +8801812725557
+duration : 17
+Type : Incoming
+
+number : +8801812725557
+duration : 15
+Type : Incoming
+
+number : +8801812725557
+duration : 57
+Type : Outgoing
+
+number : +8801812725557
+duration : 57
+Type : Outgoing
+
+number : +8801720142255
+duration : 17
+Type : Outgoing
+
+number : +8801878094724
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 10
+Type : Outgoing
+
+number : +8801718252417
+duration : 8
+Type : Incoming
+
+number : +8801812725557
+duration : 21
+Type : Incoming
+
+number : +8801752398921
+duration : 44
+Type : Outgoing
+
+number : +8801752398921
+duration : 34
+Type : Outgoing
+
+number : +8801878094724
+duration : 0
+Type : Outgoing
+
+number : +8801878094724
+duration : 3
+Type : Outgoing
+
+number : +8801317557287
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 7
+Type : Outgoing
+
+number : +8801812725557
+duration : 7
+Type : Outgoing
+
+number : +8801838115241
+duration : 0
+Type : Missed
+
+number : +8801838115241
+duration : 17
+Type : Incoming
+
+number : +8801795317409
+duration : 16
+Type : Incoming
+
+number : +8801795317409
+duration : 16
+Type : Incoming
+
+number : +8801326428120
+duration : 581
+Type : Incoming
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Missed
+
+number : +8801812725557
+duration : 7
+Type : Incoming
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 0
+Type : Outgoing
+
+number : +8801812725557
+duration : 9
+Type : Incoming
+
+number : +8801812725557
+duration : 0
+Type : Missed
+
+number : +8801954058811
+duration : 0
+Type : Outgoing
+
+number : +8801954058811
+duration : 39
+Type : Outgoing
+
+number : +8801875109588
+duration : 0
+Type : Outgoing
+
